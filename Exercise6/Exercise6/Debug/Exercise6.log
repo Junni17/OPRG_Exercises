@@ -1,5 +1,8 @@
-﻿  TestClass.cpp
-c:\users\jonasstationær\desktop\open media\exercise6\exercise6\testclass.cpp(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+﻿  test_TestClass.cpp
+  TestClass.cpp
+c:\users\jonas\documents\github\oprg_exercises\exercise6\exercise6\testclass.cpp(31): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
-  Exercise6.vcxproj -> C:\Users\JonasStationær\Desktop\Open Media\Exercise6\Debug\Exercise6.exe
-  Exercise6.vcxproj -> C:\Users\JonasStationær\Desktop\Open Media\Exercise6\Debug\Exercise6.pdb (Full PDB)
+  Generating Code...
+  LINK : C:\Users\jonas\Documents\GitHub\OPRG_Exercises\Exercise6\Debug\Exercise6.exe not found or not built by the last incremental link; performing full link
+  Exercise6.vcxproj -> C:\Users\jonas\Documents\GitHub\OPRG_Exercises\Exercise6\Debug\Exercise6.exe
+  Exercise6.vcxproj -> C:\Users\jonas\Documents\GitHub\OPRG_Exercises\Exercise6\Debug\Exercise6.pdb (Full PDB)
