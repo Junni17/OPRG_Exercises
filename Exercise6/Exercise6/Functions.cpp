@@ -6,14 +6,14 @@ Funktioner til opgave 6.1 og 6.2
 
 // Opgave 6.1
 template <typename myType>
-bool isEqual(myType a, myType b)
+bool isEqual(const myType &a,const myType &b)
 {
 	return a == b;
 }
 
 // Opgave 6.2
 template <typename myType>
-void print(myType a, myType b)
+void print(const myType &a,const myType &b)
 {
 	if (isEqual(a, b))
 		std::cout << a << " og " << b << " er ens" << std::endl;

@@ -19,11 +19,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="TestClass.cpp" />
-    <ClCompile Include="test_TestClass.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="TestClass.h" />
+    <ClCompile Include="Functions.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <ProjectGuid>{8474943B-9902-494E-8432-57C651AF94A7}</ProjectGuid>
